@@ -12,3 +12,6 @@ project/plugins/project/
 .project
 .settings
 .target
+.DS_Store
+*/.DS_Store
+*.DS_Store
