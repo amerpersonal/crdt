@@ -4,8 +4,8 @@ This is the Scala implementation of a regular directed graph and LWW Graph.
 
 ### Built with
 
-SBT 1.2.7
-Scala 2.12.7
+- SBT 1.2.7
+- Scala 2.12.7
 
 ### Tests
 
