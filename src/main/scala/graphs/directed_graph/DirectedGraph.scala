@@ -2,7 +2,6 @@ package graphs.directed_graph
 
 import data.Vertex
 import graphs.Graph
-
 import scala.collection.mutable
 
 /**
